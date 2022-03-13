@@ -17,5 +17,8 @@ int main(){
 	cout << "— Ingrese el segundo número: ";
 	cin >> lnNumero2;
 	
+	//Operación.
+	lnResultado = lnNumero1 + lnNumero2;
+	
 	return 0;
 }
