@@ -8,5 +8,7 @@ int main(){
 	//Permite imprimir tildes, ñ o caracteres especiales. 
 	setlocale(LC_ALL, "");
 	
+	cout << " Hola mundo! Esté es mi primer práctica...";
+	
 	return 0;
 }
