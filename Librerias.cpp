@@ -18,9 +18,9 @@ int main(){
 	cin >> lnNumero2;
 	
 	//Operación.
-	lnResultado = lnNumero1 - lnNumero2;
+	lnResultado = lnNumero1 * lnNumero2;
 	
 	//Impresión de datos.
-	cout << "— El resultado de " << lnNumero1 << " - " << lnNumero2 << " = " << lnResultado;
+	cout << "— El resultado de " << lnNumero1 << " * " << lnNumero2 << " = " << lnResultado;
 	return 0;
 }
