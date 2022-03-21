@@ -6,6 +6,6 @@ using namespace std;
 int main()
 {
     int lnPass, lnCount;
-    int user;
+    int user, a ,b,c;
     return 0;
 }
